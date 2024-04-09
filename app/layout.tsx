@@ -45,7 +45,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://bokepmabuk.pages.dev"
             },
-            "foundingDate":"2024-02-20"
+            "foundingDate":"2024-04-07"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
@@ -56,7 +56,7 @@ export default function RootLayout({
         "image": "https://bokepmabuk.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokepmabuk.pages.dev/"}
+            "target":"https://bokepmabuk.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
