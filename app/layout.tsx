@@ -9,14 +9,14 @@ const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
-    description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
+    description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat.`,
     metadataBase: new URL("https://bokepmabuk.pages.dev"),
     alternates: {
         canonical: `/`,
     },
     openGraph: {
         title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
-        description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
+        description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat.`,
         url: `/`,
         type: `website`,
     },
@@ -37,7 +37,7 @@ export default function RootLayout({
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": `${SITENAME}`,
-        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
+        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat.`,
         "logo": "https://bokepmabuk.pages.dev/favicon.ico",
         "url": "https://bokepmabuk.pages.dev",
         "founder":{
@@ -52,7 +52,7 @@ export default function RootLayout({
         "@type": "WebPage",
         "name": `${SITENAME}`,
         "url": "https://bokepmabuk.pages.dev",
-        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
+        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat.`,
         "image": "https://bokepmabuk.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
@@ -63,7 +63,7 @@ export default function RootLayout({
         "@type": "WebSite",
         "name": `${SITENAME}`,
         "url": "https://bokepmabuk.pages.dev",
-        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
+        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat.`,
         "potentialAction": { 
         "@type": "SearchAction", 
           "target": "https://bokepmabuk.pages.dev/?q={search_term}", 
